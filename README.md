@@ -39,4 +39,4 @@ I am always open to new opportunities and collaborations. Whether you have a dat
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/elias-espir/)
 - [My GitHub Profile](https://github.com/elias2112)
-- 📧 Feel free to contact me via email at [espirelias@gmail.com](mailto:espirelias@gmail.com?Subject=New%20Project%20Proposal) for any project proposals or collaborations.
+- 📧 Feel free to contact me via email at [espirelias.data@gmail.com](mailto:espirelias.data@gmail.com?Subject=New%20Project%20Proposal) for any project proposals or collaborations.
