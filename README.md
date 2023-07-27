@@ -6,7 +6,7 @@
 
 ## Hi there! I'm Elias 👋 a Data Scientist with a passion for driving innovation through data insights 💻.
 
-As a data-driven problem solver, I leverage my strong background in Mechanical Engineering to analyze complex business challenges and implement advanced analytics techniques to deliver impactful solutions. With almost a year of experience as a Data Engineer and Data Scientist, I have honed my skills in data analysis, machine learning, artificial intelligence and statistical modelling.
+As a data-driven problem solver, I leverage my strong background in Mechanical Engineering to analyze complex business challenges and implement advanced analytics techniques to deliver new solutions. With almost a year of experience as a Data Engineer and Data Scientist, I have improved my skills in data analysis, machine learning, artificial intelligence and statistical modelling.
 
 ## 🚀 What I Do
 
@@ -28,10 +28,10 @@ I specialize in using data to extract valuable insights that empower businesses 
 
 ## 💼 Professional Background
 
-Before delving into data science, I excelled in Mechanical Engineering and gained valuable experience as a Turbine Mechanic at APR Energy. There, I developed expertise in power generation turbine maintenance and PLC programming. This experience emphasized the importance of data-driven decision-making to enhance operational efficiency.
+Before delving into data science, I excelled in Mechanical Engineering and gained valuable experience as a Turbine Mechanic at APR Energy. In this company, I developed expertise in power generation turbine maintenance and PLC programming. This experience emphasized the importance of data-driven decision-making to enhance operational efficiency.
 
 As a Technical Operations Supervisor at EDENOR S.A., I further honed my managerial skills and trained in institutions like Universidad Torcuato Di Tella and UCEMA. 
-My journey has been enriched with diverse experiences, including becoming a certified Ontological Coach, enabling me to communicate and collaborate effectively across teams.
+My journey has been enriched with diverse experiences, such as becoming a certified Ontological Coach, enabling me to communicate and collaborate effectively across teams.
 
 ## 📫 Let's Connect
 
