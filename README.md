@@ -3,7 +3,8 @@
 <div>
   <div align="left">
     <h2>Projects:</h2>
-    <a href=https://github.com/QuantumBrainLabs/DS-Masters-Project>DS-Masters-Project</a>
+    <a href=https://github.com/QuantumBrainLabs/DS-Masters-Project>- DS-Masters-Project</a>
+    <a href=https://github.com/QuantumBrainLabs/NLP_Teewts_Analysis>- NLP_Teewts_Analysis</a>
   </div>
   <div align="right">
     <img src="https://github.com/elias2112/elias2112/assets/87869947/9622841a-9188-47cc-a961-553de0effe9e" alt="data-analysis" width="300" />
