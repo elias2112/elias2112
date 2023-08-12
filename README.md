@@ -2,11 +2,13 @@
 
 <div>
   <div align="left">
-    <h2>Projects:</h2>
-    <a href=https://github.com/QuantumBrainLabs/DS-Masters-Project>- DS-Masters-Project</a>
-    <a href=https://github.com/QuantumBrainLabs/NLP_Teewts_Analysis>- NLP_Teewts_Analysis</a>
+    <h3>Projects:</h3>
+    <ul>
+    <li><a href=https://github.com/QuantumBrainLabs/DS-Masters-Project>DS-Masters-Project</a></li>
+    <li><a href=https://github.com/QuantumBrainLabs/NLP_Teewts_Analysis>NLP_Teewts_Analysis</a></li>
+    </ul>
   </div>
-  <div align="right">
+  <div align="center">
     <img src="https://github.com/elias2112/elias2112/assets/87869947/9622841a-9188-47cc-a961-553de0effe9e" alt="data-analysis" width="300" />
   </div>
 </div>
@@ -47,3 +49,4 @@ I am always open to new opportunities and collaborations. Whether you have a dat
 - [My LinkedIn Profile](https://www.linkedin.com/in/elias-espir/)
 - [My GitHub Profile](https://github.com/elias2112)
 - 📧 Feel free to contact me via email at [espirelias.data@gmail.com](mailto:espirelias.data@gmail.com?Subject=New%20Project%20Proposal) for any project proposals or collaborations.
+
