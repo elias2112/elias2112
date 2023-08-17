@@ -6,6 +6,7 @@
     <ul>
     <li><a href=https://github.com/QuantumBrainLabs/DS-Masters-Project>DS-Masters-Project</a></li>
     <li><a href=https://github.com/QuantumBrainLabs/NLP_Teewts_Analysis>NLP_Teewts_Analysis</a></li>
+    <li><a href=https://github.com/QuantumBrainLabs/Financial-Asset-Investment-Prediction-Algorithm>Financial-Asset-Investment-Prediction-Algorithm</a></li>
     </ul>
   </div>
   <div align="center">
